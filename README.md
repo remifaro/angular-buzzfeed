@@ -1,4 +1,4 @@
-# Angular Blog - Decola Tech 2025
+# Angular BuzzFeed - Decola Tech 2025
 
 Este é um projeto de Frontend realizado para o Bootcamp Decola Tech 2025 da Avanade, desenvolvido em [Angular CLI](https://github.com/angular/angular-cli) da versão 14.1.2.
 
